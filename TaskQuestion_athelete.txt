@@ -1,0 +1,21 @@
+Create an abstract class named Athelete, in which create two non-abstract methods named,
+eat()- in which print "I eat healthy food." 
+sleep()- in which print "I sleep 8hours a day"
+and create two abstract methods named event() and accomplishment()
+
+* Create three classes named 
+NeerajChopra, RaviKumar and PVSindhu in which create implementation for methods event() and accomplishment() by printing the respective details given below:
+
+NeerajChopra class
+Event - Javelin
+Accomplishment - Gold in Olympics 2021
+
+RaviKumar class
+Event - Wrestling
+Accomplishment - Silver in Olympics 2021
+
+PVSindhu class
+Event - Badminton
+Accomplishment - Bronze in Olympics 2021
+
+*Create a class named OlympicsResultsDisplayer, using this class, call all the abstract and non-abstract methods to display the details of all the three athletes.
